@@ -10,3 +10,5 @@ This is controlled in Makefile
 - `cd` into the directory that you want the folders to be inserted (typically `/Volumes/RAID_ID`)
 - `make build`
 - profit! 
+
+> **to remove directories:** run `make unbuild`
